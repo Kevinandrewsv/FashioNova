@@ -33,7 +33,7 @@ const Contact = () => {
             <div>
               <p className="font-semibold text-xl text-gray-700">Our Store</p>
               <p className="text-gray-500">
-                54709 Willms Station <br /> Suite 350, Washington, USA
+                65, Sivan kovil Street <br /> Thiruvarur, Tamil Nadu - 613703
               </p>
             </div>
           </div>
@@ -47,7 +47,7 @@ const Contact = () => {
             <div>
               <p className="font-semibold text-xl text-gray-700">Contact Us</p>
               <p className="text-gray-500">
-                Tel: (415) 555-0132 <br /> Email: admin@fashionova.com
+                Tel: + 91 9994053302<br /> Email: admin@fashionova.com
               </p>
             </div>
           </div>
