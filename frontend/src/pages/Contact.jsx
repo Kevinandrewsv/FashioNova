@@ -47,7 +47,7 @@ const Contact = () => {
             <div>
               <p className="font-semibold text-xl text-gray-700">Contact Us</p>
               <p className="text-gray-500">
-                Tel: (415) 555-0132 <br /> Email: admin@forever.com
+                Tel: (415) 555-0132 <br /> Email: admin@fashionova.com
               </p>
             </div>
           </div>
@@ -59,7 +59,7 @@ const Contact = () => {
               className="text-green-600 text-3xl hover:text-green-800 transition-colors duration-300"
             />
             <div>
-              <p className="font-semibold text-xl text-gray-700">Careers at Forever</p>
+              <p className="font-semibold text-xl text-gray-700">Careers at FashioNova</p>
               <p className="text-gray-500">Learn more about our teams and job openings.</p>
             </div>
           </div>
