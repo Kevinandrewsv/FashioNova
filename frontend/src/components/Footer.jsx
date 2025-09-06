@@ -34,11 +34,11 @@ const Footer = () => {
           <ul className="flex flex-col gap-3">
             <li className="flex items-center gap-3">
               <FontAwesomeIcon icon={faPhone} className="text-indigo-500" />
-              +1-212-456-7890
+              +91 9994053302
             </li>
             <li className="flex items-center gap-3">
               <FontAwesomeIcon icon={faEnvelope} className="text-indigo-500" />
-              contact@foreveryou.com
+              fashinova@gmail.com
             </li>
           </ul>
         </div>
